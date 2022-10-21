@@ -1,0 +1,27 @@
+{
+  "name": "libraries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriiKhomik/libraries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriiKhomik/libraries/issues"
+  },
+  "homepage": "https://github.com/YuriiKhomik/libraries#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "lodash.throttle": "^4.1.1"
+  }
+}
